@@ -67,4 +67,3 @@ def calcul_risque(dico): #dico : celui return par event_less_10km
     
   return (risque, quali_data)
 
-#
