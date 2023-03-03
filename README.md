@@ -79,7 +79,7 @@ Lors de ce projet, nous avons utilisé les données suivantes :
 
 Grégoire Brugère - gregoire.brugere@ensae.fr  
 Corentin Pla - corentin.pla@ensae.fr   
-Sophie Bataille - sophie.bataille@ensae.fr  
+
 
 
 
