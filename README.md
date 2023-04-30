@@ -1,4 +1,4 @@
-# Estim'risque : A quels risques est soumis mon habitation ?
+# Estim'risque : A quels risques est soumise mon habitation ?
 Projet mené dans le cadre de notre 2A à l'ENSAE.
 
 <!-- TABLE DES MATIERES -->
